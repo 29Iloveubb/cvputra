@@ -785,7 +785,7 @@ a:focus {
 
 .portfolio .portfolio-item figure .link-preview:hover i,
 .portfolio .portfolio-item figure .link-details:hover i {
-    color: #FF6F61;
+    color: #2d66a8;
 }
 
 .portfolio .portfolio-item figure .link-preview {
@@ -890,7 +890,7 @@ a:focus {
 }
 
 .review .review-text .ratting i {
-    color: #FF6F61;
+    color: #2d66a8;
     font-size: 14px;
 }
 
@@ -941,7 +941,7 @@ a:focus {
 .review-slider .slick-prev:focus::before,
 .review-slider .slick-next:hover::before,
 .review-slider .slick-next:focus::before {
-    color: #FF6F61;
+    color: #2d66a8;
 }
 
 .review-slider .slick-prev::before,
@@ -1010,7 +1010,7 @@ a:focus {
 }
 
 .contact .contact-info p a:hover {
-    color: #FF6F61;
+    color: #2d66a8;
     text-decoration: none;
 }
 
@@ -1051,18 +1051,18 @@ a:focus {
 
 .contact .form .form-control:focus {
     box-shadow: none;
-    border-color: #FF6F61;
+    border-color: #2d66a8;
 }
 
 .contact .form .btn {
     color: #222222;
-    background: #FF6F61;
+    background: #2d66a8;
     border-radius: 0;
     transition: all .3s;
 }
 
 .contact .form .btn:hover {
-    color: #FF6F61;
+    color: #2d66a8;
     background: #222222;
 }
 
