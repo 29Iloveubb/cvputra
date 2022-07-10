@@ -445,31 +445,20 @@
                 <!-- Form Start -->       
                             <div class="col-md-6">
                                 <div class="form">
-                             <form id="fs-frm" name="putra-form" accept-charset="utf-8" action="https://formspree.io/f/xoqrongp" method="post">
-                                   <fieldset id="fs-frm-inputs">
-                                        <div class="form-row">
-                                            <div class="form-group col-md-6">
-                                                <label for="Nama-lengkap"></label>
-                                                <input type="text" class="form-control" placeholder="Your Name" required=""/>
-                                            </div>
-                                            <div class="form-group col-md-6">
-                                                <label for="email-address"></label>
-                                                <input type="email" class="form-control" placeholder="Your Email" required=""/>
-                                            </div>
-                                            <div class="form-group">
-                                                <label for="Whatsapp"></label>
-                                                <input type="text" class="form-control" placeholder="WhatsApp" required="" />
-                                        </div>
-                                        <div class="form-group">
-                                            <label for="Pesan"></label>
-                                            <textarea class="form-control" rows="5" placeholder="Message" required=""></textarea>
-                                        </div>
-                                        <div><button class="btn" type="submit">Kirim Pesan</button></div>
-                                    </form>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+                                   <form id="fs-frm" name="putra-form" accept-charset="utf-8" action="https://formspree.io/f/xoqrongp" method="post">
+  <fieldset id="fs-frm-inputs">
+    <label for="full-name">Nama</label>
+    <input type="text" name="name" id="full-name" placeholder="Nama Anda" required="">
+    <label for="alamat-email">Alamat Email</label>
+    <input type="alamat email" name="alamat email" id="email-address" placeholder="email@gmail.com" required="">
+    <label for="WhatsApp">Nomor WhatsApp (Optional)</label>
+    <input type="WhatsApp" name="WhatsApp" id="WhatsApp" placeholder="+628">
+    <label for="complaint">Pesan</label>
+    <textarea rows="6" name="pesan" id="pesan" placeholder="Ketik pesan disini.." required=""></textarea>
+    <input type="hidden" name="_subject" id="email-subject" value="Pesan buat putra dari Website">
+  </fieldset>
+  <input type="submit" value="Kirim">
+</form> 
                 </div>
                 <!-- Form End -->
                 
