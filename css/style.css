@@ -250,7 +250,7 @@ a:focus {
     }
 }
 
-@media (max-width: 1200px) {
+@media (max-width: 1140px) {
     .wrapper .content {
         padding: 30px;
     }
