@@ -995,13 +995,13 @@ a:focus {
 
 .contact .contact-info p {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 800;
     letter-spacing: 1px;
     margin-bottom: 10px;
 }
 
 .contact .contact-info p i {
-    width: 25px;
+    width: 30px;
     color: #2d66a8;
 }
 
