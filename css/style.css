@@ -983,25 +983,25 @@ a:focus {
 /**********************************/
 .contact {
     position: relative;
-    padding: 30px 30px 30px 30px;
+    padding: 60px 30px 30px 30px;
     background: #ffffff;
 }
 
 .contact .contact-info {
     position: relative;
     width: 100%;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
 }
 
 .contact .contact-info p {
     font-size: 16px;
-    font-weight: 800;
+    font-weight: 600;
     letter-spacing: 1px;
-    margin-bottom: 0px;
+    margin-bottom: 10px;
 }
 
 .contact .contact-info p i {
-    width: 30px;
+    width: 25px;
     color: #2d66a8;
 }
 
