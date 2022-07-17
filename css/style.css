@@ -990,14 +990,14 @@ a:focus {
 .contact .contact-info {
     position: relative;
     width: 100%;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 
 .contact .contact-info p {
     font-size: 16px;
     font-weight: 800;
     letter-spacing: 1px;
-    margin-bottom: 10px;
+    margin-bottom: 0px;
 }
 
 .contact .contact-info p i {
