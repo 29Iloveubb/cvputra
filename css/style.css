@@ -101,7 +101,7 @@ a:focus {
     transition: margin 200ms ease-out;
 }
 
-@media (min-width: 768px) {
+@media (min-width: 800px) {
     .wrapper .content {
         padding: 30px 0px 30px 30px;
     }
